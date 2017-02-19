@@ -1,0 +1,7 @@
+[package]
+name = "mazes_and_monsters"
+version = "0.1.0"
+authors = ["Christopher Fair <christopherpfair@comcast.net>"]
+
+[dependencies]
+rouler="0.1.3"
